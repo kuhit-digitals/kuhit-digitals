@@ -133,6 +133,6 @@ https://github.com/kuhit-digitals/TabNest
 
 <p align="center">
 
-> <b>"Build. Learn. Ship. Repeat."</b>
+> <b>"*_Build. Learn. Ship. Repeat._*"</b>
 
 </p>
