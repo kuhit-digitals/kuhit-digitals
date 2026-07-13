@@ -13,13 +13,18 @@ Building AI-powered products that solve real-world problems.
     <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/harshit-tiwari-2823b6412/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:YOURMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.youtube.com/@DevelopWithHarshit">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://www.instagram.com/developwithharshit">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
 </p>
 
 ---
@@ -100,24 +105,6 @@ https://github.com/kuhit-digitals/TabNest
 - 🧩 Developed projects like **SamvaadCord**, **Naam Jap**, and **TabNest**.
 - 🏆 Qualified for **NYC CodeQuest 2026 Round 2** as a solo participant.
 - 🎯 Currently focused on AI-powered applications, Chrome Extensions, and Full Stack Development.
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kuhit-digitals&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuhit-digitals&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kuhit-digitals&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
 
 # 🎯 Current Goals
 
