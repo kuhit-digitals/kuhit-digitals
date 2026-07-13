@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harshit Tiwari</h1>
+<h1 align="center">Harshit Tiwari</h1>
 
 <p align="center">
-  <b>Building products that solve real problems.</b>
+Building AI-powered products that solve real-world problems.
 </p>
 
 <p align="center">
@@ -26,32 +26,13 @@
 
 # 👨‍💻 About Me
 
-```javascript
-const harshit = {
-    role: "Frontend Developer",
-    company: "Kuhit Digitals",
+I'm **Harshit Tiwari**, an aspiring developer from India and the founder of **Kuhit Digitals**.
 
-    currentlyBuilding: "TabNest",
+I enjoy building practical web applications that solve real problems rather than just experimenting with code. My journey started with simple frontend projects and has gradually evolved into AI-powered applications and Chrome Extensions.
 
-    learning: [
-        "Node.js",
-        "Backend Development",
-        "AI Integration"
-    ],
+Currently, I'm focused on improving my skills in **Python**, **JavaScript**, and **SQL** while learning how to build scalable full-stack applications.
 
-    interests: [
-        "Chrome Extensions",
-        "Web Applications",
-        "UI/UX",
-        "Automation"
-    ],
-
-    mission:
-        "Build software that people genuinely enjoy using."
-}
-```
-
----
+Outside coding, I actively participate in hackathons where I enjoy transforming ideas into working products and continuously challenging myself to learn something new.
 
 # 🚀 Featured Project
 
@@ -59,13 +40,20 @@ const harshit = {
 
 **AI-powered Chrome Extension for managing browser workspaces using natural language.**
 
-✨ Features
+### Features
 
-- Save browser workspaces instantly
-- Restore sessions with one click
-- AI-powered commands
-- Modern UI
-- Chrome Extension APIs
+- 🤖 AI-powered commands
+- 📂 Save and restore browser workspaces
+- ⚡ Quick productivity workflow
+- 🧠 Natural language support
+- 🌐 Built using Chrome Extension APIs
+
+**Tech Stack**
+
+`JavaScript` • `Chrome APIs` • `Gemini AI`
+
+🔗 **Repository**
+https://github.com/kuhit-digitals/TabNest
 
 **Tech Stack**
 
@@ -82,75 +70,36 @@ https://github.com/kuhit-digitals/TabNest
 | Project | Description |
 |----------|-------------|
 | 🚀 **TabNest** | AI-powered Chrome Extension for browser workspace management |
-| 💬 **SamvaadCord** | Discord-inspired messaging platform |
-| 🌊 **Naam Jap** | Interactive spiritual web application |
+| 💬 **SamvaadCord** | Discord-inspired communication platform |
+| 🌊 **Naam Jap** | Interactive web application |
 | 🎮 **Tic-Tac-Toe** | JavaScript game with custom gameplay logic |
-| ✅ **To-Do List** | Modern productivity application |
-| 🎨 **Preloader** | CSS animation collection |
+| ✅ **To-Do List** | Productivity application with a modern UI |
+| 🎨 **Preloader** | CSS loading animation collection |
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode,nodejs" />
 </p>
 
 ### Currently Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-</p>
-
-AI Integration • APIs • Backend Development
-
----
+- 🐍 Python
+- ⚡ JavaScript
+- 🗄️ SQL
+- 🌐 Backend Development
+- 🤖 AI Integration
 
 # 🏆 Journey
 
-```text
-2024
-
-Started Learning Web Development
-
-        ↓
-
-Built My First Projects
-
-        ↓
-
-2025
-
-Founded Kuhit Digitals
-
-        ↓
-
-Created Multiple Web Applications
-
-        ↓
-
-2026
-
-Built TabNest
-
-Qualified NYC CodeQuest Round 2 (Solo)
-
-        ↓
-
-Now
-
-Building AI-Powered Products
-```
-
----
+- 🌱 Started my journey by learning HTML and CSS.
+- 💻 Built multiple frontend projects to strengthen my fundamentals.
+- 🚀 Founded **Kuhit Digitals** to showcase my work and ideas.
+- 🧩 Developed projects like **SamvaadCord**, **Naam Jap**, and **TabNest**.
+- 🏆 Qualified for **NYC CodeQuest 2026 Round 2** as a solo participant.
+- 🎯 Currently focused on AI-powered applications, Chrome Extensions, and Full Stack Development.
 
 # 📈 GitHub Stats
 
@@ -172,12 +121,11 @@ Building AI-Powered Products
 
 # 🎯 Current Goals
 
-- 🚀 Build useful AI-powered products
+- 🚀 Build impactful AI-powered products
+- 💻 Become a Full Stack Developer
 - 🏆 Participate in more hackathons
-- 🌐 Contribute to Open Source
-- 📚 Become a Full Stack Developer
-- 💼 Launch my first SaaS
-
+- 🌍 Contribute to Open Source
+- 📚 Continuously learn and improve
 ---
 
 # 🤝 Let's Connect
@@ -185,15 +133,11 @@ Building AI-Powered Products
 <p align="center">
 
 <a href="https://github.com/kuhit-digitals">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://linktr.ee/DevWithHarshit">
+<img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
 </a>
 
 </p>
