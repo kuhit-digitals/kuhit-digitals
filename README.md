@@ -1,292 +1,207 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Harshit Tiwari</h1>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║                    🌟 KUHIT DIGITALS 🌟                         ║
-║            Full Stack Developer | Web Enthusiast                ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <b>Building products that solve real problems.</b>
+</p>
 
-<!-- ASCII Art Profile Picture -->
-```
-    ╔════════════════════════════════════════════════════════════╗
-    ║                   👨‍💻 DEVELOPER 👨‍💻                        ║
-    ║                                                            ║
-    ║                  ███████╗███████╗                          ║
-    ║                  ██╔════╝██╔════╝                          ║
-    ║    ╔═════════╗   ██████╗ ███████╗   ╔═════════╗           ║
-    ║    ║ K U H I ║   ██╔══██╗╚════██║   ║ D I G I ║           ║
-    ║    ║ T A L S ║   ██║  ██║███████║   ║ T A L S ║           ║
-    ║    ╚═════════╝   ╚═╝  ╚═╝╚══════╝   ╚═════════╝           ║
-    ║                                                            ║
-    ║         < code > [ create ] { innovate } ~ build ~        ║
-    ║                                                            ║
-    ║  ███████████████████████████████████████████████████████  ║
-    ║  █  🚀 PASSIONATE  │  💻 CREATIVE  │  🎯 FOCUSED  █       ║
-    ║  ███████████████████████████████████████████████████████  ║
-    ║                                                            ║
-    ╚════════════════════════════════════════════════════════════╝
+<p align="center">
+  Founder of <b>Kuhit Digitals</b> • Chrome Extension Developer • AI Explorer • Hackathon Builder
+</p>
+
+<p align="center">
+  <a href="https://github.com/kuhit-digitals?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:YOURMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+```javascript
+const harshit = {
+    role: "Frontend Developer",
+    company: "Kuhit Digitals",
+
+    currentlyBuilding: "TabNest",
+
+    learning: [
+        "Node.js",
+        "Backend Development",
+        "AI Integration"
+    ],
+
+    interests: [
+        "Chrome Extensions",
+        "Web Applications",
+        "UI/UX",
+        "Automation"
+    ],
+
+    mission:
+        "Build software that people genuinely enjoy using."
+}
 ```
 
 ---
 
-## 🎯 Quick Links
+# 🚀 Featured Project
 
-[![GitHub Profile](https://img.shields.io/badge/🔗_GitHub_Profile-181717?style=for-the-badge&logo=github)](https://github.com/kuhit-digitals)
-[![View Projects](https://img.shields.io/badge/📁_View_Projects-FF6B6B?style=for-the-badge&logo=github)](https://github.com/kuhit-digitals?tab=repositories)
-[![Get In Touch](https://img.shields.io/badge/💌_Contact_Me-FF1493?style=for-the-badge&logo=gmail)](mailto:contact@kuhit-digitals.com)
+## TabNest
 
----
+**AI-powered Chrome Extension for managing browser workspaces using natural language.**
 
-## 📊 GitHub Statistics
+✨ Features
 
-<div align="center">
+- Save browser workspaces instantly
+- Restore sessions with one click
+- AI-powered commands
+- Modern UI
+- Chrome Extension APIs
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuhit-digitals&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/kuhit-digitals)
+**Tech Stack**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuhit-digitals&theme=radical&layout=compact&hide_border=true)](https://github.com/kuhit-digitals)
+`JavaScript` `Chrome APIs` `Gemini AI`
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kuhit-digitals&theme=radical&hide_border=true)](https://github.com/kuhit-digitals)
+➡️ Repository
 
-</div>
-
----
-
-## 👋 About Me
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  I'm a passionate Full Stack Developer crafting digital     │
-│  solutions with modern technologies. Love building AI-      │
-│  powered applications, interactive web experiences, and    │
-│  exploring the boundaries of web innovation.              │
-└─────────────────────────────────────────────────────────────┘
-```
-
-- 🔭 **Currently Building:** AI Chrome Extensions & Web Apps
-- 💻 **Tech Stack:** JavaScript, HTML, CSS, Node.js
-- 🌱 **Learning:** Advanced frameworks & AI technologies
-- 🎯 **Mission:** Create impactful digital experiences
-- 💡 **Passion:** Clean code, UI/UX, Problem-solving
-- ⚡ **Fun Fact:** Debug more than I sleep 😄
+https://github.com/kuhit-digitals/TabNest
 
 ---
 
-## 🎨 Tech Stack & Skills
+# 📂 Projects
 
-<div align="center">
-
-### 🖥️ Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🚀 Tools & Platforms
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🌐 Web Technologies
-![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-00C7B7?style=for-the-badge&logo=css3&logoColor=white)
-![Web APIs](https://img.shields.io/badge/Web%20APIs-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
+| Project | Description |
+|----------|-------------|
+| 🚀 **TabNest** | AI-powered Chrome Extension for browser workspace management |
+| 💬 **SamvaadCord** | Discord-inspired messaging platform |
+| 🌊 **Naam Jap** | Interactive spiritual web application |
+| 🎮 **Tic-Tac-Toe** | JavaScript game with custom gameplay logic |
+| ✅ **To-Do List** | Modern productivity application |
+| 🎨 **Preloader** | CSS animation collection |
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
 
-<div align="center">
+### Languages
 
-### ⭐ Showcase
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
 
-[![TabNest](https://img.shields.io/badge/🤖_TabNest-AI%20Chrome%20Extension-blue?style=for-the-badge&logo=github)](https://github.com/kuhit-digitals/TabNest)
-[![SamvaadCord](https://img.shields.io/badge/💬_SamvaadCord-Communication%20App-purple?style=for-the-badge&logo=github)](https://github.com/kuhit-digitals/SamvaadCord)
+### Tools
 
-[![Tic-Tac-Toe](https://img.shields.io/badge/🎮_Tic--Tac--Toe-Game%20App-red?style=for-the-badge&logo=github)](https://github.com/kuhit-digitals/Tic-Tac-Toe)
-[![To-Do List](https://img.shields.io/badge/✅_To--Do--List-Task%20Manager-green?style=for-the-badge&logo=github)](https://github.com/kuhit-digitals/To-Do-List-)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
-[![Naam-jap](https://img.shields.io/badge/🌊_Naam--jap-Interactive%20App-cyan?style=for-the-badge&logo=github)](https://github.com/kuhit-digitals/Naam-jap)
-[![Preloader](https://img.shields.io/badge/⏳_Preloader-CSS%20Animations-yellow?style=for-the-badge&logo=github)](https://github.com/kuhit-digitals/preloader-project)
+### Currently Learning
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+</p>
 
-### 📋 Detailed Project Matrix
-
-| 🎯 Project | 📝 Description | 🛠️ Tech | 📊 Status | ⭐ Stars |
-|:----------:|:-------------|:------:|:--------:|:-------:|
-| **TabNest** | 🤖 AI-powered Chrome Extension for browser tab management | JavaScript | 🟢 Active | ⭐⭐⭐ |
-| **SamvaadCord** | 💬 Discord-like real-time communication platform | HTML/CSS/JS | 🟡 Developing | ⭐⭐ |
-| **Tic-Tac-Toe** | 🎮 Smart game with challenging AI logic | JavaScript | 🟢 Complete | ⭐⭐⭐⭐ |
-| **Naam-jap** | 🌊 Interactive web experience | JavaScript | 🟢 Complete | ⭐⭐ |
-| **To-Do-List** | ✅ Beautiful task management UI | CSS/JavaScript | 🟢 Complete | ⭐⭐⭐ |
-| **Preloader** | ⏳ Smooth loading animations | Pure CSS | 🟢 Complete | ⭐⭐⭐⭐ |
+AI Integration • APIs • Backend Development
 
 ---
 
-## 📈 Code Contribution Activity
+# 🏆 Journey
 
-```
-    Most Active              Consistent Work
-         ▄▄▄                    ╔═════════════╗
-        ▄███▄                   ║ 365 Days    ║
-       ▄█████▄                  ║ Dedication  ║
-      ▄███████▄                 ║ to Coding   ║
-     ▄█████████▄                ╚═════════════╝
-    ▄████████████▄
-   ▄█████████████████▄
+```text
+2024
+
+Started Learning Web Development
+
+        ↓
+
+Built My First Projects
+
+        ↓
+
+2025
+
+Founded Kuhit Digitals
+
+        ↓
+
+Created Multiple Web Applications
+
+        ↓
+
+2026
+
+Built TabNest
+
+Qualified NYC CodeQuest Round 2 (Solo)
+
+        ↓
+
+Now
+
+Building AI-Powered Products
 ```
 
 ---
 
-## 🎓 Learning Journey
+# 📈 GitHub Stats
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ CURRENT LEARNING PATH                     ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ ▓▓▓▓▓▓░░ JavaScript Mastery      75%      ┃
-┃ ▓▓▓▓▓░░░ React Framework         60%      ┃
-┃ ▓▓▓▓░░░░ Web APIs                70%      ┃
-┃ ▓▓▓░░░░░ Chrome Extensions       85%      ┃
-┃ ▓▓▓▓▓▓▓░ UI/UX Design            80%      ┃
-┃ ▓▓▓░░░░░ Backend Dev             50%      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kuhit-digitals&show_icons=true&theme=github_dark&hide_border=true"/>
 
-## 💼 Work Experience & Achievements
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuhit-digitals&layout=compact&theme=github_dark&hide_border=true"/>
 
-<div align="center">
+</p>
 
-![Achievements](https://img.shields.io/badge/🏆_ACHIEVEMENTS-FFD700?style=for-the-badge)
+<p align="center">
 
-[![Projects](https://img.shields.io/badge/6_Active_Projects-FF6B6B?style=for-the-badge&logo=github)](https://github.com/kuhit-digitals?tab=repositories)
-[![Contributions](https://img.shields.io/badge/Open_Source-4285F4?style=for-the-badge&logo=github)](https://github.com/kuhit-digitals)
-[![Learning](https://img.shields.io/badge/Continuous_Learner-00C7B7?style=for-the-badge)](https://github.com/kuhit-digitals)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kuhit-digitals&theme=github-dark-blue&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-## 🎯 2024-2025 Goals
+# 🎯 Current Goals
 
-```
-╔════════════════════════════════════════════════╗
-║ ROADMAP & GOALS                                ║
-╠════════════════════════════════════════════════╣
-║ ✅ Build 10+ Projects                         ║
-║ 📚 Master React & Vue.js                      ║
-║ 🚀 Create Production Chrome Extensions        ║
-║ 👥 Contribute to Open Source                  ║
-║ 🎓 Learn Backend Technologies                 ║
-║ 📱 Build Mobile-First Applications            ║
-║ 🤝 Collaborate with Developers                ║
-║ 🌟 Reach 100+ GitHub Stars                    ║
-╚════════════════════════════════════════════════╝
-```
+- 🚀 Build useful AI-powered products
+- 🏆 Participate in more hackathons
+- 🌐 Contribute to Open Source
+- 📚 Become a Full Stack Developer
+- 💼 Launch my first SaaS
 
 ---
 
-## 🌟 What I Offer
+# 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
 
-### Services & Collaborations
+<a href="https://github.com/kuhit-digitals">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-[![Development](https://img.shields.io/badge/💻_Web_Development-FF6B6B?style=for-the-badge)](https://github.com/kuhit-digitals)
-[![Consulting](https://img.shields.io/badge/🎓_Technical_Mentoring-4ECDC4?style=for-the-badge)](https://github.com/kuhit-digitals)
-[![Projects](https://img.shields.io/badge/🚀_Project_Building-FFE66D?style=for-the-badge)](https://github.com/kuhit-digitals)
-[![Innovation](https://img.shields.io/badge/💡_Innovation-95E1D3?style=for-the-badge)](https://github.com/kuhit-digitals)
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-</div>
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
----
-
-## 🤝 Let's Collaborate!
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                     OPEN FOR COLLABORATION                     ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  ✨ Exciting Projects           🚀 Startups                   ║
-║  💼 Freelance Work              🎓 Teaching & Mentoring       ║
-║  🤖 AI-Powered Solutions        🌐 Open Source Contribution   ║
-║                                                                ║
-║         Let's build something amazing together! 🎉             ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+</p>
 
 ---
 
-## 📞 Connect & Follow
+<p align="center">
 
-<div align="center">
+> <b>"Build. Learn. Ship. Repeat."</b>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/kuhit-digitals)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/kuhit_digitals)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kuhit-digitals)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:contact@kuhit-digitals.com)
-
-</div>
-
----
-
-## 🎬 Animated Footer
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  ██╗  ██╗██╗   ██╗██╗  ██╗██╗████████╗                         ║
-║  ██║ ██╔╝██║   ██║██║  ██║██║╚══██╔══╝                         ║
-║  █████╔╝ ██║   ██║███████║██║   ██║                            ║
-║  ██╔═██╗ ██║   ██║██╔══██║██║   ██║                            ║
-║  ██║  ██╗╚██████╔╝██║  ██║██║   ██║                            ║
-║  ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝                            ║
-║                                                                  ║
-║     █████████████████████████████████████████████████████████  ║
-║     █  Crafting Code  │  Building Future  │  Sharing Joy  █    ║
-║     █████████████████████████████████████████████████████████  ║
-║                                                                  ║
-║            💖 Made with Passion & Coffee ☕ 💖                ║
-║                                                                  ║
-║  ⭐ If you enjoyed this profile, please give it a star! ⭐      ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-![Wave](https://img.shields.io/badge/Thanks_for_Visiting!-👋-brightgreen?style=flat-square)
-
-**Last Updated:** July 2025 | **Status:** 🟢 Active Developer
-
-</div>## Hi there 👋
-
-<!--
-**kuhit-digitals/kuhit-digitals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
