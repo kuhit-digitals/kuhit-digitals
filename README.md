@@ -74,9 +74,9 @@ https://github.com/kuhit-digitals/TabNest
 
 | Project | Description |
 |----------|-------------|
-| 🚀 **Frontend-Website-Series** | Frontend Websites for portfolio |
-| 🚀 **Hackathon-r2** | IntentFlow: AI powered planner software built while hackathon |
-| 🚀 **TabNest** | AI-powered Chrome Extension for browser workspace management |
+| 💻 **Frontend-Website-Series** | Frontend Websites for portfolio |
+| 💡 **Hackathon-r2** | IntentFlow: AI powered planner software built while hackathon |
+| 🗂️ **TabNest** | AI-powered Chrome Extension for browser workspace management |
 | 💬 **SamvaadCord** | Discord-inspired communication platform |
 | 🌊 **Naam Jap** | Interactive web application |
 | 🎮 **Tic-Tac-Toe** | JavaScript game with custom gameplay logic |
