@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="Banner.png" alt="TabNest Banner" width="100%">
-</p>
-<div align="center">
-
 <h1 align="center">Harshit Tiwari</h1>
 
 <p align="center">
@@ -33,6 +28,11 @@ Building AI-powered products that solve real-world problems.
 </p>
 
 ---
+<p align="center">
+  <img src="Banner.png" alt="TabNest Banner" width="100%">
+</p>
+<div align="center">
+
 
 # 👨‍💻 About Me
 
