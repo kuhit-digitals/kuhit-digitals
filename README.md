@@ -31,7 +31,7 @@ Building AI-powered products that solve real-world problems.
 <p align="center">
   <img src="Banner.png" alt="TabNest Banner" width="100%">
 </p>
-<div align="center">
+
 
 
 # 👨‍💻 About Me
