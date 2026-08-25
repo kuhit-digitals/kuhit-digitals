@@ -79,6 +79,7 @@ https://github.com/kuhit-digitals/TabNest
 
 | Project | Description |
 |----------|-------------|
+| 🖱️ **VeloXSpeed** | CPS/SPS TESTER WEBSITE |
 | 💻 **Frontend-Website-Series** | Frontend Websites for portfolio |
 | 💡 **Hackathon-r2** | IntentFlow: AI powered planner software built while hackathon |
 | 🗂️ **TabNest** | AI-powered Chrome Extension for browser workspace management |
@@ -87,6 +88,7 @@ https://github.com/kuhit-digitals/TabNest
 | 🎮 **Tic-Tac-Toe** | JavaScript game with custom gameplay logic |
 | ✅ **To-Do List** | Productivity application with a modern UI |
 | 🎨 **Preloader** | CSS loading animation collection |
+
 
 ---
 
@@ -102,7 +104,6 @@ https://github.com/kuhit-digitals/TabNest
 - ⚡ JavaScript
 - 🗄️ SQL
 - 🌐 Backend Development
-- 🤖 AI Integration
 
 # 🏆 Journey
 
