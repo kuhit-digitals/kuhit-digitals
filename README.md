@@ -1,3 +1,6 @@
+<video src="/Banner.mp4" autoplay loop muted playsinline></video>
+
+
 <h1 align="center">Harshit Tiwari</h1>
 
 <p align="center">
