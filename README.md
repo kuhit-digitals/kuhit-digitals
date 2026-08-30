@@ -1,12 +1,6 @@
-<p align="center">
-  <video
-    src="https://github.com/kuhit-digitals/kuhit-digitals/raw/refs/heads/main/Banner.mp4"
-    autoplay
-    loop
-    muted
-    playsinline
-    width="100%">
-  </video>
+</p>
+  <img src="Banner.gif" alt="Kuhit Banner" width="100%">
+</p>
 </p>
 
 <h1 align="center">Harshit Tiwari</h1>
@@ -36,6 +30,10 @@ Building AI-powered products that solve real-world problems.
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   
+</p>
+  <img src="Banner.png" alt="TabNest Banner" width="100%">
+</p>
+
 # 👨‍💻 About Me
 
 I'm **Harshit Tiwari**, an aspiring developer from India and the founder of **Kuhit Digitals**.
