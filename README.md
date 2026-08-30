@@ -1,5 +1,6 @@
-<video src="/Banner.mp4" autoplay loop muted playsinline></video>
-
+<p align="center">
+<video src="./Banner.mp4" autoplay loop muted playsinline width=100%></video>
+</p>
 
 <h1 align="center">Harshit Tiwari</h1>
 
@@ -31,7 +32,8 @@ Building AI-powered products that solve real-world problems.
 </p>
 
 ---
-<p align="center">
+
+
   <img src="Banner.png" alt="TabNest Banner" width="100%">
 </p>
 
