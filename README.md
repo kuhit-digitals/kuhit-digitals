@@ -141,6 +141,9 @@ https://github.com/kuhit-digitals/TabNest
 
 <p align="center">
 
-> <b>"*_Build. Learn. Ship. Repeat._*"</b>
+> <b>"*_FOCUS ON YOUR WORK
+FAITH IN GOD 
+DO YOUR PART TRUST HIS PLAN
+AND REST IN HIS HAND_*"</b>
 
 </p>
