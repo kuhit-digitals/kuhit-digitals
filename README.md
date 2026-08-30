@@ -1,5 +1,5 @@
 <p align="center">
-<video src="./Banner.mp4" autoplay loop muted playsinline width=100%></video>
+<video src="Banner.mp4" autoplay loop muted playsinline width=100%></video>
 </p>
 
 <h1 align="center">Harshit Tiwari</h1>
