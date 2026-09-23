@@ -79,7 +79,10 @@ https://github.com/kuhit-digitals/TabNest
 
 | Project | Description |
 |----------|-------------|
+| 🪞 **Replicathon1** | Frontend made while a Beyond sigma event |
+| 👫 **RakshaBandhan** | a website ideation executed by AI |
 | 🖱️ **VeloXSpeed** | CPS/SPS TESTER WEBSITE |
+| 🗂️ **TabSense** | AI-powered Chrome Extension for browser workspace management |
 | 💻 **Frontend-Website-Series** | Frontend Websites for portfolio |
 | 💡 **Hackathon-r2** | IntentFlow: AI powered planner software built while hackathon |
 | 🗂️ **TabNest** | AI-powered Chrome Extension for browser workspace management |
